@@ -1,0 +1,35 @@
+main{
+    text-align: center;
+}
+
+header{
+    background-color: lightgray;
+    padding:30px;
+}
+
+ul{
+    list-style-position: inside;
+}
+
+a{
+    text-decoration: none;
+    color:red;
+    background-color: antiquewhite;
+    padding:10px;
+}
+
+
+section{
+    display: block;
+    margin-right:auto;
+    margin-left:auto;
+    margin-top: 20px;
+    width: 60%;
+    border-style: groove;
+}
+
+footer{
+    margin-top:20px;
+    text-align: center;
+    background-color: lightgray;
+}

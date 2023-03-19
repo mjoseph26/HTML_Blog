@@ -1,0 +1,41 @@
+nav{
+    text-align: center;
+    font-size: large;
+    background-color: lightgray;
+}
+
+header{
+    text-align: center;
+    background-color: lightgray;
+    padding-top: 5px;
+}
+
+main{
+    text-align: center;
+    display: block;
+    margin: auto;
+    width:60%
+}
+
+a {
+    color:red;
+    text-decoration: none;
+}
+
+li {
+    display: inline-block;
+    padding:10px;
+    margin:20px;
+    background-color: bisque;
+}
+
+article {
+    margin-top: 30px;
+    border-style: groove;
+}
+
+footer{
+    text-align: center;
+    margin-top: 20px;
+    background-color: lightgray;
+}
